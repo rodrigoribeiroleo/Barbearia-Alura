@@ -13,4 +13,5 @@
 </ul>
 <hr>
 
-![Demonstração](demonstracao.gif)
+
+![Demonstração](https://github.com/rodrigoribeiroleo/Barbearia-Alura/blob/master/demonstracao.gif)
